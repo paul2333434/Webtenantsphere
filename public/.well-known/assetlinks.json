@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tenantsphere.app",
+    "sha256_cert_fingerprints": [
+      "8C:9C:C2:ED:5C:F4:FB:58:B1:59:2E:95:0E:2A:9E:A3:D7:E9:74:5C:83:57:FA:FF:B0:0E:C4:DC:35:7F:DD:60"
+    ]
+  }
+}]

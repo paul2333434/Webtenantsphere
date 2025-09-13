@@ -1,0 +1,9 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appID": "ADD_TEAM_ID.com.tenantsphere.app",
+      "paths": ["/invitation/*"]
+    }]
+  }
+}
